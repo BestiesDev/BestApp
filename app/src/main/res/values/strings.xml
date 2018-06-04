@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">Enter a title</string>
+    <string name="button_send">Send</string>
+    <string name="say_Hello">HELLO</string>
+    <string name="activity_name_label">Activity</string>
+    <string name="activity_name_text">Enter activity</string>
+    <string name="location_label">Location</string>
+    <string name="location_text">Enter location</string>
+    <string name="details_label">Details</string>
+    <string name="details_text">Enter details</string>
+    <string name="button_add">ADD</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="button_exit">X</string>
+    <string name="activity_popup_title">New Activity</string>
+
+</resources>
